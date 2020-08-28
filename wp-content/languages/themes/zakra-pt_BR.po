@@ -1,0 +1,1137 @@
+# Translation of Themes - Zakra in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Zakra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-30 17:54:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Zakra\n"
+
+#. Theme Name of the theme
+#: inc/helpers.php:153 inc/admin/class-zakra-welcome-notice.php:46
+#: inc/admin/class-zakra-dashboard.php:92
+msgid "Zakra"
+msgstr "Zakra"
+
+#: template-parts/content-single.php:88 template-parts/content-page.php:24
+#: template-parts/blog/blog-post-layout.php:84
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:75
+#: template-parts/blog/blog-post-layout.php:70
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continue lendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que nada foi encontrado neste local. talvez tente um dos links abaixo ou uma pesquisa?"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Um pensamento em &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensou em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensou em &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: functions.php:28
+msgid "Primary"
+msgstr "Primário"
+
+#: functions.php:101
+msgid "Header Top Bar Left Sidebar"
+msgstr "Barra superior do cabeçalho de barra lateral esquerda"
+
+#: functions.php:102
+msgid "Header Top Bar Right Sidebar"
+msgstr "Barra superior do cabeçalho de barra lateral direita"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:160 functions.php:99
+msgid "Sidebar Right"
+msgstr "Sidebar direita"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:161 functions.php:100
+msgid "Sidebar Left"
+msgstr "Sidebar esquerda"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:162 functions.php:103
+msgid "Footer One"
+msgstr "Rodapé Um"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:163 functions.php:104
+msgid "Footer Two"
+msgstr "Rodapé dois"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:164 functions.php:105
+msgid "Footer Three"
+msgstr "Rodapé três"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:165 functions.php:106
+msgid "Footer Four"
+msgstr "Rodapé quatro"
+
+#: functions.php:122
+msgid "Add widgets here."
+msgstr "Adicione widgets aqui."
+
+#: inc/admin/class-zakra-dashboard.php:103
+msgid "Support"
+msgstr "Apoio"
+
+#: inc/admin/class-zakra-dashboard.php:104
+msgid "Documentation"
+msgstr "Documentação"
+
+#: inc/admin/class-zakra-theme-review-notice.php:94
+msgid "Got theme support question?"
+msgstr "Tem uma questão de suporte ao tema?"
+
+#: inc/admin/class-zakra-welcome-notice.php:74
+#: inc/admin/class-zakra-notice.php:59 inc/admin/class-zakra-notice.php:78
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Ação: falhou. Atualize a página e tente novamente."
+
+#: inc/admin/class-zakra-welcome-notice.php:78
+#: inc/admin/class-zakra-notice.php:63 inc/admin/class-zakra-notice.php:82
+msgid "Cheatin&#8217; huh?"
+msgstr "Trapaceando&#8217; hein?"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-zakra-welcome-notice.php:54
+msgid "Welcome! Thank you for choosing Zakra! To fully take advantage of the best our theme can offer, please make sure you visit our %1$swelcome page%2$s."
+msgstr "Boas vindas! grato por escolher o Zakra! Para aproveitar ao máximo o melhor que o nosso tema pode oferecer, certifique-se de consultar nossa %1$s página de boas-vindas %2$s."
+
+#: inc/admin/class-zakra-welcome-notice.php:26
+msgid "Get started with Zakra"
+msgstr "Iniciar com Zakra"
+
+#: inc/class-breadcrumb-trail.php:267
+msgid "Browse:"
+msgstr "Procurar:"
+
+#: inc/class-breadcrumb-trail.php:268
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: inc/class-breadcrumb-trail.php:269
+msgid "Home"
+msgstr "Inicial"
+
+#: inc/class-breadcrumb-trail.php:270
+msgid "404 Not Found"
+msgstr "404 não encontrado"
+
+#: inc/class-breadcrumb-trail.php:271
+msgid "Archives"
+msgstr "Arquirvos"
+
+#. Translators: %s is the search query.
+#: inc/class-breadcrumb-trail.php:273
+msgid "Search results for: %s"
+msgstr "Resultados da pesquisa para: %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:275
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:277
+msgid "Comment Page %s"
+msgstr "Página de comentários %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb-trail.php:279
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb-trail.php:281
+msgid "Week %s"
+msgstr "Semana %s"
+
+#: inc/class-breadcrumb-trail.php:711
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: inc/class-breadcrumb-trail.php:728
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/class-breadcrumb-trail.php:745
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/class-breadcrumb-trail.php:761 inc/class-breadcrumb-trail.php:789
+#: inc/class-breadcrumb-trail.php:827 inc/class-breadcrumb-trail.php:853
+#: inc/class-breadcrumb-trail.php:1199
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/class-breadcrumb-trail.php:762 inc/class-breadcrumb-trail.php:828
+#: inc/class-breadcrumb-trail.php:1201
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/class-breadcrumb-trail.php:763 inc/class-breadcrumb-trail.php:1203
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/class-breadcrumb-trail.php:790
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:128
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:141
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:113
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:48
+msgid "Background Color"
+msgstr "Cor de Fundo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:59
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:66
+msgid "No File Selected"
+msgstr "Nenhum arquivo selecionado"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:69
+msgid "Remove"
+msgstr "Remover"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:71
+msgid "Select File"
+msgstr "Selecione o arquivo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:79
+msgid "Background Repeat"
+msgstr "Repetição de fundo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:83
+msgid "No Repeat"
+msgstr "Sem repetição"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:86
+msgid "Repeat All"
+msgstr "Repetir tudo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:89
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:92
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:98
+msgid "Background Position"
+msgstr "Posição de fundo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:102
+msgid "Left Top"
+msgstr "Superior à esquerda"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:105
+msgid "Left Center"
+msgstr "Centro à esquerda"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:108
+msgid "Left Bottom"
+msgstr "Inferior esquerdo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:111
+msgid "Right Top"
+msgstr "Superior á direita"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:114
+msgid "Right Center"
+msgstr "Centro direito"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:117
+msgid "Right Bottom"
+msgstr "Inferior direito"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:120
+msgid "Center Top"
+msgstr "Centro superior"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:123
+msgid "Center Center"
+msgstr "Centro centro"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:126
+msgid "Center Bottom"
+msgstr "Centro inferior"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:132
+msgid "Background Size"
+msgstr "Tamanho de fundo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:137
+msgid "Cover"
+msgstr "Cobrir"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:142
+msgid "Contain"
+msgstr "Contêiner"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:147
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:154
+msgid "Background Attachment"
+msgstr "Anexo de fundo"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:159
+msgid "Scroll"
+msgstr "Rolagem"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:164
+msgid "Fixed"
+msgstr "Fixado"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:129
+msgid "Top"
+msgstr "Topo"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:130
+msgid "Right"
+msgstr "Direita"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:131
+msgid "Bottom"
+msgstr "Inferior"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:132
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/customizer/controls/php/class-zakra-customize-slider-control.php:70
+msgid "Reset"
+msgstr "Redefinir"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:141
+msgid "Font family"
+msgstr "Família da fonte"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:149
+msgid "Variant"
+msgstr "Variante"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:157
+msgid "Subset(s)"
+msgstr "Subconjunto(s)"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:172
+msgid "Font size"
+msgstr "Tamanho da fonte"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:64
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:182
+msgid "Color"
+msgstr "Cor"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:192
+msgid "Line Height"
+msgstr "Altura da linha"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:123
+#: inc/customizer/controls/php/class-zakra-fonts.php:124
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:125
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 itálico"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:126
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:127
+msgid "Light 200 Italic"
+msgstr "Light 200 itálico"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:128
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:129
+msgid "Book 300 Italic"
+msgstr "Book 300 itálico"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:130
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:131
+msgid "Normal 400 Italic"
+msgstr "Normal 400 itálico"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:132
+msgid "Medium 500"
+msgstr "Médio 500"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:133
+msgid "Medium 500 Italic"
+msgstr "Médio 500 itálico"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:134
+#: inc/customizer/controls/php/class-zakra-fonts.php:135
+msgid "Semi-Bold 600"
+msgstr "Semi-negrito 600"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:136
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-negrito 600 itálico"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:137
+msgid "Bold 700"
+msgstr "Negrito 700"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:138
+msgid "Bold 700 Italic"
+msgstr "Negrito 700 itálico"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:139
+#: inc/customizer/controls/php/class-zakra-fonts.php:140
+msgid "Extra-Bold 800"
+msgstr "Extra-negrito 800"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:141
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-negrito 800 itálico"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:142
+#: inc/customizer/controls/php/class-zakra-fonts.php:143
+msgid "Ultra-Bold 900"
+msgstr "Ultra-negrito 900"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:144
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-negrito 900 itálico"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:44
+msgid "Post Content Order"
+msgstr "Ordem de conteúdo do post"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:45
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:74
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:45
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:75
+msgid "Drag & Drop items to re-arrange the order"
+msgstr "Arrastar e soltar itens para reorganizar a ordem"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:48
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:48
+msgid "Featured Image"
+msgstr "Imagem em destaque"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:444
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:49
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:49
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:50
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:50
+msgid "Meta Tags"
+msgstr "Meta Tags"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:470
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:51
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:51
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:103
+msgid "Content"
+msgstr "Conteúdo"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:73
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:74
+msgid "Meta Tags Order"
+msgstr "Ordem meta tags"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:77
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:78
+msgid "Comments"
+msgstr "Comentários"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:78
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:79
+msgid "Categories"
+msgstr "Categorias"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:79
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:80
+msgid "Author"
+msgstr "Author"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:80
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:81
+msgid "Date"
+msgstr "Data"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:81
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:82
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:99
+msgid "Post Content"
+msgstr "Conteúdo do post"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:102
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:119
+msgid "Enable Read More"
+msgstr "Ativar leia mais"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:142
+msgid "Read More Style"
+msgstr "Leia mais estilo"
+
+#: inc/customizer/register-panels-and-sections.php:252
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:31
+msgid "Page Title"
+msgstr "Título da página"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:48
+msgid "Enable Page Title"
+msgstr "Ativar título da página"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:92
+#: inc/customizer/register-panels-and-sections.php:239
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:51
+msgid "Page Header"
+msgstr "Cabeçalho da página"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:52
+msgid "Content Area"
+msgstr "Área de conteúdo"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:69
+msgid "Markup"
+msgstr "Marcação"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:287
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:72
+msgid "Heading 1"
+msgstr "Cabeçalho 1"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:313
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:73
+msgid "Heading 2"
+msgstr "Cabeçalho 2"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:339
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:74
+msgid "Heading 3"
+msgstr "Cabeçalho 3"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:365
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:75
+msgid "Heading 4"
+msgstr "Cabeçalho 4"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:391
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:76
+msgid "Heading 5"
+msgstr "Cabeçalho 5"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:417
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:77
+msgid "Heading 6"
+msgstr "Cabeçalho 6"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:78
+msgid "Span"
+msgstr "Span"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:79
+msgid "Paragraph"
+msgstr "Parágrafo"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:80
+msgid "Div"
+msgstr "Div"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:259
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:237
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:91
+#: inc/customizer/options/styling/class-zakra-customize-base-colors-option.php:111
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:51
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:255
+msgid "Text Color"
+msgstr "Cor de texto"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:221
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:103
+msgid "Alignment"
+msgstr "Alinhamento"
+
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:226
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:216
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:138
+msgid "Padding"
+msgstr "Espaçamento"
+
+#: inc/customizer/register-panels-and-sections.php:352
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:96
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:378
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:282
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:170
+msgid "Background"
+msgstr "Fundo"
+
+#: inc/customizer/register-panels-and-sections.php:266
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:180
+#: inc/hooks/header.php:493
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:196
+msgid "Enable Breadcrumbs"
+msgstr "Ativar breadcrumbs"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:287
+msgid "Separator Color"
+msgstr "Cor do separador"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:291
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:263
+#: inc/customizer/options/styling/class-zakra-customize-link-option.php:45
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:319
+msgid "Link Color"
+msgstr "Cor do Link"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:324
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:289
+#: inc/customizer/options/styling/class-zakra-customize-link-option.php:70
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:351
+msgid "Link Hover Color"
+msgstr "Cor do Link ao passar o mouse"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:44
+msgid "Single Post Content Order"
+msgstr "Ordem de conteúdo do post individual"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:341
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:70
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:154
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:61
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:153
+#: inc/customizer/options/class-zakra-customize-base-option.php:76
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:262
+msgid "None"
+msgstr "Nenhum"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:250
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:38
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:38
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/customizer/register-panels-and-sections.php:110
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:72
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:156
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:63
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:155
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:131
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:318
+msgid "Border Top"
+msgstr "Borda superior"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:165
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:346
+msgid "Border Top Color"
+msgstr "Cor de borda superior"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:39
+msgid "Enable Footer Widgets"
+msgstr "Ativar widgets de rodapé"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:55
+msgid "Footer Widgets Style"
+msgstr "Estilo de widgets de rodapé"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:191
+msgid "Hide Widget Title"
+msgstr "Ocultar título do widget"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:220
+msgid "Widget Title Color"
+msgstr "Cor de título do widget"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:359
+msgid "List Item Border Bottom"
+msgstr "Borda da lista do item inferior"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:393
+msgid "List Item Border Bottom Color"
+msgstr "Cor de borda da lista do item inferior"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:39
+msgid "Enable Scroll to Top"
+msgstr "Ativar rolar para o topo"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:96
+msgid "Hover Color"
+msgstr "Cor ao passar o mouse"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:160
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:166
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:144
+msgid "Background Hover Color"
+msgstr "Cor de fundo ao passar o mouse"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:39
+msgid "Container Style"
+msgstr "Estilo de contêiner"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:71
+msgid "Container Width"
+msgstr "Largura do contêiner"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:101
+msgid "Content Width"
+msgstr "Largura do conteúdo"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:102
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:133
+msgid "Only works for left/ right sidebar layout"
+msgstr "Funciona apenas para o layout da barra lateral esquerda / direita"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:132
+msgid "Sidebar Width"
+msgstr "Largura da barra lateral"
+
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:67
+msgid "Enable Search Icon"
+msgstr "Ativar ícone de pesquisa"
+
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:92
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:87
+msgid "Border Bottom"
+msgstr "Borda inferior"
+
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:120
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:121
+msgid "Border Bottom Color"
+msgstr "Cor de borda inferior"
+
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:37
+msgid "Enable Header Top Bar"
+msgstr "Ativar barra superior do cabeçalho"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:65
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:58
+msgid "Left Content"
+msgstr "Conteúdo á esquerda"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:71
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:155
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:62
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:154
+msgid "Text/HTML"
+msgstr "Text/HTML"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:73
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:157
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:64
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:156
+msgid "Widget"
+msgstr "Widget"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:91
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:88
+msgid "Text/HTML for Left Content"
+msgstr "Text/HTML para conteúdo da esquerda"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:118
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:117
+msgid "Select a Menu for Left Content"
+msgstr "Selecione um menu para o conteúdo da esquerda"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:149
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:150
+msgid "Right Content"
+msgstr "Conteúdo á direita"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:175
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:179
+msgid "Text/HTML for Right Content"
+msgstr "Text/HTML para conteúdo da direita"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:202
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:208
+msgid "Select a Menu for Right Content"
+msgstr "Selecione um menu para o conteúdo da direita"
+
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:244
+msgid "Header Top Text Color"
+msgstr "Cor do texto superior do cabeçalho"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:159
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:196
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:340
+#: inc/customizer/options/layout/class-zakra-customize-layout-general-option.php:47
+#: inc/customizer/controls/php/class-zakra-customize-color-control.php:91
+msgid "Default"
+msgstr "Padrão"
+
+#: inc/admin/class-zakra-dashboard.php:78
+#: inc/customizer/register-panels-and-sections.php:195
+#: inc/customizer/options/layout/class-zakra-customize-layout-general-option.php:64
+msgid "Blog/Archive"
+msgstr "Blog/Arquivo"
+
+#: inc/admin/class-zakra-dashboard.php:79
+#: inc/customizer/register-panels-and-sections.php:209
+#: inc/customizer/options/layout/class-zakra-customize-layout-general-option.php:81
+msgid "Single Post"
+msgstr "Post individual"
+
+#: inc/customizer/options/layout/class-zakra-customize-layout-general-option.php:98
+msgid "Page"
+msgstr "Página"
+
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:39
+msgid "Disable Primary Menu"
+msgstr "Desativar o menu principal"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:300
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:155
+msgid "Menu Item Color"
+msgstr "Cor do item de menu"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:312
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:190
+msgid "Menu Item Hover Color"
+msgstr "Cor do item de menu ao passar o mouse"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:325
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:229
+msgid "Menu Item Active Color"
+msgstr "Cor do item de menu ativo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:336
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:259
+msgid "Active Menu Item Style"
+msgstr "Estilo do item de menu ativo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:343
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:263
+msgid "Underline Border"
+msgstr "Borda sublinhado"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:345
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:264
+msgid "Left Border"
+msgstr "Borda esquerda"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:347
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:265
+msgid "Right Border"
+msgstr "Borda direita"
+
+#: inc/customizer/options/styling/class-zakra-customize-base-colors-option.php:73
+msgid "Primary Color"
+msgstr "Cor primária"
+
+#: inc/customizer/options/styling/class-zakra-customize-base-colors-option.php:141
+msgid "Border Color"
+msgstr "Cor da borda"
+
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:116
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:82
+msgid "Text Hover Color"
+msgstr "Cor de texto ao passar o mouse"
+
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:194
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:178
+msgid "Roundness"
+msgstr "Redondo"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:48
+msgid "Body"
+msgstr "Body(corpo)"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:73
+msgid "Heading"
+msgstr "Título"
+
+#: inc/customizer/register-panels-and-sections.php:39
+msgid "Theme Options"
+msgstr "Opções de temas"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:82
+#: inc/customizer/register-panels-and-sections.php:53
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/admin/class-zakra-dashboard.php:73
+#: inc/customizer/register-panels-and-sections.php:66
+msgid "Header Top Bar"
+msgstr "Barra superior do cabeçalho"
+
+#: inc/admin/class-zakra-dashboard.php:74
+#: inc/customizer/register-panels-and-sections.php:80
+msgid "Header Main Area"
+msgstr "Área principal do cabeçalho"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:87
+#: inc/admin/class-zakra-dashboard.php:75
+#: inc/customizer/register-panels-and-sections.php:123
+#: inc/customizer/register-panels-and-sections.php:437
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:152
+msgid "Primary Menu"
+msgstr "Menu primário"
+
+#: inc/admin/class-zakra-dashboard.php:76
+#: inc/customizer/register-panels-and-sections.php:451
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:206
+msgid "Mobile Menu"
+msgstr "Menu no dispositivo móvel"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:77
+#: inc/customizer/register-panels-and-sections.php:153
+#: inc/customizer/register-panels-and-sections.php:181
+#: inc/customizer/register-panels-and-sections.php:295
+msgid "General"
+msgstr "Geral"
+
+#: inc/customizer/register-panels-and-sections.php:168
+#: inc/customizer/register-panels-and-sections.php:465
+msgid "Post/Page/Blog"
+msgstr "Post/Página/Blog"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:115
+#: inc/admin/class-zakra-dashboard.php:77
+#: inc/customizer/register-panels-and-sections.php:282
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/register-panels-and-sections.php:325
+msgid "Styling"
+msgstr "Estilo"
+
+#: inc/customizer/register-panels-and-sections.php:338
+msgid "Base Colors"
+msgstr "Cores base"
+
+#: inc/customizer/register-panels-and-sections.php:366
+msgid "Link Colors"
+msgstr "Cores de link"
+
+#: inc/customizer/register-panels-and-sections.php:380
+msgid "Button"
+msgstr "Botão"
+
+#: inc/admin/class-zakra-dashboard.php:81
+#: inc/customizer/register-panels-and-sections.php:396
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/customizer/register-panels-and-sections.php:409
+msgid "Base Typography"
+msgstr "Tipografia base"
+
+#: inc/customizer/register-panels-and-sections.php:537
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/admin/class-zakra-dashboard.php:83
+#: inc/customizer/register-panels-and-sections.php:550
+msgid "Footer Widgets"
+msgstr "Widgets do rodapé"
+
+#: inc/admin/class-zakra-dashboard.php:84
+#: inc/customizer/register-panels-and-sections.php:564
+msgid "Footer Bottom Bar"
+msgstr "Barra inferior do rodapé"
+
+#: inc/customizer/register-panels-and-sections.php:578
+msgid "Scroll to Top"
+msgstr "Rolar para o Topo"
+
+#: inc/helpers.php:157
+msgid "Copyright &copy; %1$s %2$s. Theme: %3$s By ThemeGrill."
+msgstr "Copyright &copy; %1$s %2$s. Tema : %3$s Por ThemeGrill."
+
+#: inc/hooks/footer.php:259
+msgid "Scroll to top"
+msgstr "Rolar para o topo"
+
+#: inc/hooks/header.php:62
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:143
+msgid "Remove content margin"
+msgstr "Remover margem de conteúdo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:153
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:189
+msgid "Enable Transparent Header"
+msgstr "Ativar cabeçalho transparente"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:221
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:234
+msgid "Upload Logo"
+msgstr "Enviar logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:238
+msgid "Remove Logo"
+msgstr "Remover logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:367
+msgid "Enable Page Header"
+msgstr "Ativar cabeçalho de página"
+
+#: inc/meta-boxes/class-zakra-meta-box.php:39
+msgid "Page Settings"
+msgstr "Página de configurações"
+
+#. translators: %s: author.
+#: inc/template-functions.php:204
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#. translators: %s: day
+#: inc/template-functions.php:217
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#. translators: %s: month
+#: inc/template-functions.php:221
+msgid "Month: %s"
+msgstr "Mês: %s"
+
+#. translators: %s: year.
+#: inc/template-functions.php:225
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: inc/template-functions.php:235
+msgid "Page Not Found"
+msgstr "Página não encontrada"
+
+#: inc/template-functions.php:237
+msgid "Search Results"
+msgstr "Pesquisa de resultados"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:19
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Postado em %s"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:53
+msgctxt "post author"
+msgid "By %s"
+msgstr "Por %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:80
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:75
+msgid "Posted in %1$s"
+msgstr "Postado em %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:101
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Sem comentários<span class=\"screen-reader-text\"> em %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:126
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: inc/woocommerce.php:112 inc/woocommerce.php:146
+msgid "View your shopping cart"
+msgstr "Ver seu carrinho de compras"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Procurar resultados para: %s"
+
+#: template-parts/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não conseguimos encontrar o que você está procurando. Talvez a pesquisa possa ajudar."
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas nada correspondeu aos seus termos de pesquisa. Tente novamente com algumas palavras-chave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Iniciar aqui</a>."
+
+#: inc/hooks/content.php:46
+msgid "Read More"
+msgstr "Leia mais"
+
+#: inc/template-functions.php:346
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opa! essa página não pode&rsquo;t ser encontrada."
